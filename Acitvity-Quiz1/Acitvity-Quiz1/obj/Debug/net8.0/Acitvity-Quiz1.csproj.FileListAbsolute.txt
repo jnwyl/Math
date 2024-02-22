@@ -1,0 +1,15 @@
+D:\Sarmiento\Math\Acitvity-Quiz1\Acitvity-Quiz1\bin\Debug\net8.0\Acitvity-Quiz1.exe
+D:\Sarmiento\Math\Acitvity-Quiz1\Acitvity-Quiz1\bin\Debug\net8.0\Acitvity-Quiz1.deps.json
+D:\Sarmiento\Math\Acitvity-Quiz1\Acitvity-Quiz1\bin\Debug\net8.0\Acitvity-Quiz1.runtimeconfig.json
+D:\Sarmiento\Math\Acitvity-Quiz1\Acitvity-Quiz1\bin\Debug\net8.0\Acitvity-Quiz1.dll
+D:\Sarmiento\Math\Acitvity-Quiz1\Acitvity-Quiz1\bin\Debug\net8.0\Acitvity-Quiz1.pdb
+D:\Sarmiento\Math\Acitvity-Quiz1\Acitvity-Quiz1\obj\Debug\net8.0\Acitvity-Quiz1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarmiento\Math\Acitvity-Quiz1\Acitvity-Quiz1\obj\Debug\net8.0\Acitvity-Quiz1.AssemblyInfoInputs.cache
+D:\Sarmiento\Math\Acitvity-Quiz1\Acitvity-Quiz1\obj\Debug\net8.0\Acitvity-Quiz1.AssemblyInfo.cs
+D:\Sarmiento\Math\Acitvity-Quiz1\Acitvity-Quiz1\obj\Debug\net8.0\Acitvity-Quiz1.csproj.CoreCompileInputs.cache
+D:\Sarmiento\Math\Acitvity-Quiz1\Acitvity-Quiz1\obj\Debug\net8.0\Acitvity-Quiz1.sourcelink.json
+D:\Sarmiento\Math\Acitvity-Quiz1\Acitvity-Quiz1\obj\Debug\net8.0\Acitvity-Quiz1.dll
+D:\Sarmiento\Math\Acitvity-Quiz1\Acitvity-Quiz1\obj\Debug\net8.0\refint\Acitvity-Quiz1.dll
+D:\Sarmiento\Math\Acitvity-Quiz1\Acitvity-Quiz1\obj\Debug\net8.0\Acitvity-Quiz1.pdb
+D:\Sarmiento\Math\Acitvity-Quiz1\Acitvity-Quiz1\obj\Debug\net8.0\Acitvity-Quiz1.genruntimeconfig.cache
+D:\Sarmiento\Math\Acitvity-Quiz1\Acitvity-Quiz1\obj\Debug\net8.0\ref\Acitvity-Quiz1.dll
